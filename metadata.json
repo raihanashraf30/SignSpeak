@@ -1,0 +1,6 @@
+{
+  "name": "SignSpeak",
+  "description": "AI-Based Gesture to Text Converter for real-time sign language recognition.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
